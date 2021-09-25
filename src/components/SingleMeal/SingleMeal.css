@@ -8,6 +8,11 @@ img{
     color: white;
     border-radius: 5px;
     box-shadow: 5px 5px 35px 25px  rgba(46, 46, 46, 0.377);
+    transition: transform 0.3s;
+}
+
+.single-meal:hover{
+    transform: scale(1.05);
 }
 
 button{
