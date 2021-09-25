@@ -22,3 +22,13 @@ button:hover{
     background-color: rgb(235, 19, 127);
     cursor: pointer;
 }
+
+button>a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn{
+    display:flex;
+    justify-content: space-around;
+}
