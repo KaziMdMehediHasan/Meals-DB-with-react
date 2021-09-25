@@ -1,0 +1,24 @@
+img{
+    width: 20rem;
+    border-radius: 5px;
+}
+
+.single-meal{
+    padding: 16px;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 35px 25px  rgba(46, 46, 46, 0.377);
+}
+
+button{
+    background-color:  #c50d75ad;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+button:hover{
+    background-color: rgb(235, 19, 127);
+    cursor: pointer;
+}
